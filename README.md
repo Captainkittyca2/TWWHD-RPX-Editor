@@ -3,7 +3,7 @@ A tool to modify some content within the rpx file of "The Legend of Zelda: The W
 
 Currently Supported Features:
 * Modifying the trail color of:
-    Boomerang
+Boomerang
     Sword Swing
     Sword Swing after drinking grandma soup
     Sword Parry Swing
